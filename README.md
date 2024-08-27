@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding and making bots come to life!
 - 🌱 I’m currently learning Everything coding related
 - 💞️ I’m looking to collaborate on SwippyBot
-- 📫 How to reach me - https://skwunk.crd.co
+- 📫 How to reach me - https://skwunkk.carrd.co
 
 <!---
 skwunkk/skwunkk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
